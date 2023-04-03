@@ -11,7 +11,7 @@
 #include <unistd.h>
 #include <threads.h>
 
-#define MAX_FILES 1000
+#define MAX_FILES 10000
 
 typedef struct {
     char *name;
