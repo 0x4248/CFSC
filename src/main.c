@@ -1,15 +1,15 @@
 /**
  * CFSC - C File Size Calculator
  * Github://www.github.com/awesomelewis2007/CFSC
-*/
+ */
 
+#include <dirent.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <dirent.h>
 #include <sys/stat.h>
-#include <unistd.h>
 #include <threads.h>
+#include <unistd.h>
 
 #define MAX_FILES 10000
 
@@ -60,8 +60,7 @@ int main(int argc, char *argv[]) {
         exit(1);
     }
 
-
-    while ((entry = readdir(dir)) != NULL) { 
+    while ((entry = readdir(dir)) != NULL) {
         if (entry->d_name[0] == '.') {
             continue;
         }
