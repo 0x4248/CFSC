@@ -32,6 +32,9 @@ jobs:
       - name: Format C++ header code
         run: |
           find . -type f -name "*.hpp" -exec clang-format {} -i -style="{IndentWidth: 4}" \;
+      - name: Git pull
+        run: |
+          git pull
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Format C/C++ code with clang-format"
