@@ -29,4 +29,4 @@ make
 ```
 
 ## License
-This project is lincenced under GPL-3.0. See [LICENSE](LICENSE) for more information.
+This project is lincenced under GPL-3.0. See [LICENCE](LICENCE) for more information.
