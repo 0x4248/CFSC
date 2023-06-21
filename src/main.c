@@ -1,6 +1,9 @@
 /**
- * CFSC - C File Size Calculator
+ * CFSC
+ * C File Size Calculator
  * Github://www.github.com/awesomelewis2007/CFSC
+ * Licence: GNU General public licence v3.0
+ * By: Lewis Evans
  */
 
 #include <dirent.h>
