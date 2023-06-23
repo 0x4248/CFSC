@@ -1,0 +1,15 @@
+{
+    "name": "CFSC",
+    "description": "This is a simple C program that calculates the size of a file in bytes.",
+    "version": "",
+    "main_file": "src/main.c",
+    "author": "Lewis Evans",
+    "license": "GNU General Public License v3.0",
+    "url": "https://www.github.com/awesomelewis2007/CFSC",
+    "email": "none",
+    "languages": [
+        "shell",
+        "c"
+    ],
+    "actions": {}
+}
