@@ -28,5 +28,5 @@ To build the project run the following command:
 make
 ```
 
-## License
+## Licence
 This project is licenced under GPL-3.0. See [LICENCE](LICENCE) for more information.
