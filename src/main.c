@@ -1,5 +1,4 @@
-/**
- * CFSC
+/* CFSC
  * C File Size Calculator
  * Github://www.github.com/lewisevans2007/CFSC
  * Licence: GNU General public licence v3.0
