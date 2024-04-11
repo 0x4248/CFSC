@@ -1,6 +1,6 @@
 # Clang-format workflow
-# Github: https://www.github.com/lewisevans2007/workflows
-# By: Lewis Evans
+# Github: https://www.github.com/0x4248/workflows
+# By: 0x4248
 
 name: Clang-format
 on:
